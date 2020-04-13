@@ -48,7 +48,7 @@ func deletePrefix(m map[string]string, prefix string) {
 // Keys returns all of the top-level keys in this map
 func (m Map) Keys() []string {
 	ks := make(map[string]struct{})
-	for k, _ := range m {
+	for k := range m {
 		idx := strings.Index(k, ".")
 		if idx == -1 {
 			idx = len(k)
@@ -58,7 +58,7 @@ func (m Map) Keys() []string {
 	}
 
 	result := make([]string, 0, len(ks))
-	for k, _ := range ks {
+	for k := range ks {
 		result = append(result, k)
 	}
 

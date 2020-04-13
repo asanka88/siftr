@@ -1,6 +1,7 @@
-[![MIT licensed](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-
 # Siftr
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Go Report Card](https://goreportcard.com/report/github.com/racirx/siftr)](https://goreportcard.com/report/github.com/racirx/siftr)
 
 Credit for expand and flatten goes to [hashicorp/terraform](https://github.com/hashicorp/terraform/tree/master/flatmap). Just played around with that logic a bit to enhance the performance some.
 
