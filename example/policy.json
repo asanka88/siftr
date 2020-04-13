@@ -1,0 +1,14 @@
+{
+  "whitelist": {
+    "woods.hardwoods.[*].id": "mask",
+    "woods.hardwoods.[*].commonName": "",
+    "woods.hardwoods.[*].types.[*].id": "",
+    "woods.hardwoods.[*].types.[*].hardness": ""
+  },
+  "sibling": {
+    "woods.hardwoods.[*].commonName": [
+      "OAK",
+      "MP"
+    ]
+  }
+}

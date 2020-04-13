@@ -1,0 +1,491 @@
+{
+  "woods": {
+    "hardwoods": [
+      {
+        "id": "oak",
+        "commonName": "OAK",
+        "genus": "quercus",
+        "types": [
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          }
+        ]
+      },
+      {
+        "id": "maple",
+        "commonName": "MP",
+        "genus": "acer",
+        "types": [
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          }
+        ]
+      },
+      {
+        "id": "walnut",
+        "commonName": "WN",
+        "genus": "juglans",
+        "types": [
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          },
+          {
+            "id": "black",
+            "commonName": "Black Walnut",
+            "hardness": 1010
+          }
+        ]
+      },
+      {
+        "id": "oak",
+        "commonName": "OAK",
+        "genus": "quercus",
+        "types": [
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          },
+          {
+            "id": "redOak",
+            "commonName": "Red Oak",
+            "hardness": 1290
+          },
+          {
+            "id": "whiteOak",
+            "commonName": "White Oak",
+            "hardness": 1360
+          }
+        ]
+      },
+      {
+        "id": "maple",
+        "commonName": "MP",
+        "genus": "acer",
+        "types": [
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          },
+          {
+            "id": "hard",
+            "commonName": "Hard Maple",
+            "hardness": 1450
+          },
+          {
+            "id": "soft",
+            "commonName": "Soft Maple",
+            "hardness": 950
+          }
+        ]
+      }
+    ]
+  }
+}
