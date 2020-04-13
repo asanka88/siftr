@@ -8,11 +8,16 @@ import (
 	"strings"
 )
 
+// Policy is defined structure that drives the JSON filtering in Siftr.
 type Policy struct {
 	Whitelist map[string]string
 	Sibling   map[string][]string
 }
 
+// Main function of the package that will process and filter the given data
+// based on the given policy.
+//
+// Returns a map[string]interface{} if all successful.
 func Sift(data []byte, policy *Policy) (map[string]interface{}, error) {
 	if policy == nil {
 		return nil, fmt.Errorf("error no policy given")
